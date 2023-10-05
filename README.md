@@ -1,6 +1,8 @@
 # Credit Card Payment UI
 
-This repository provides a user-friendly interface for entering and submitting credit card payment details. It's designed using React and demonstrates the usage of state, effects, context, and other fundamental React concepts. The user can switch between payment methods, view terms and conditions, and submit their payment data.
+This repository provides a user-friendly interface for entering and submitting credit card payment details. 
+It's designed using React and demonstrates the usage of state, effects, context, and other fundamental React concepts. 
+The user can switch between payment methods, view terms and conditions, and submit their payment data.
 
 ## Features
 
