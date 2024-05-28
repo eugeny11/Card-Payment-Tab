@@ -26,11 +26,11 @@ Install the required packages
 npm install
 Run the project locally
 
-![Card Payment Tab](src/image_1.png)
-
 npm start
 By default, the project should start on http://localhost:3000.
 
 ## Contribution:
 
 Feel free to fork this project, submit any issues, or create pull requests if you'd like to contribute.
+
+![Card Payment Tab](src/image_1.png)
